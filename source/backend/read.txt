@@ -1,0 +1,2 @@
+1.publish จะได้ไฟล์ exe
+2.install service ใส่ path ให้ถูกต้อง

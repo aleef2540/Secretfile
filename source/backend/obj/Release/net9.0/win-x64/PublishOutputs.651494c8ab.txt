@@ -1,0 +1,6 @@
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\appsettings.Development.json
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\appsettings.json
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\backend.pdb
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\e_sqlite3.dll
+C:\Users\aleef\Desktop\secret\backend\bin\Release\net9.0\win-x64\publish\backend.exe
