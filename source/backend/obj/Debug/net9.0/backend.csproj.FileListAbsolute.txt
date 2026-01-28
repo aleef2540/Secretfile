@@ -714,3 +714,4 @@ C:\Users\aleef\OneDrive\Desktop\pro\secret\source\backend\obj\Debug\net9.0\refin
 C:\Users\aleef\OneDrive\Desktop\pro\secret\source\backend\obj\Debug\net9.0\backend.pdb
 C:\Users\aleef\OneDrive\Desktop\pro\secret\source\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
 C:\Users\aleef\OneDrive\Desktop\pro\secret\source\backend\obj\Debug\net9.0\ref\backend.dll
+C:\Users\aleef\OneDrive\Desktop\pro\secret\source\backend\obj\Debug\net9.0\backend.sourcelink.json

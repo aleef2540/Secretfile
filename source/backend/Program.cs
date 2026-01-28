@@ -28,8 +28,8 @@ builder.Host.UseContentRoot(pathToContentRoot);
 
 
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
-builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlite("Data Source=secretfiles.db"));
-builder.WebHost.UseUrls("http://localhost:5278"); // หรือ http://localhost:5000
+builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlite("Data Source=./secretfiles.db"));
+builder.WebHost.UseUrls("http://0.0.0.0:5278"); // หรือ http://localhost:5000
 
 var app = builder.Build();
 
@@ -541,4 +541,3 @@ public class AppDbContext : DbContext
     public DbSet<SecretfileReceive> SecretfileReceive => Set<SecretfileReceive>();
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 }
-
