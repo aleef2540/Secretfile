@@ -4,6 +4,8 @@
 
 A robust, full-stack web application designed for organizations to securely store, organize, and manage internal documents. This project showcases a modern **React** frontend powered by **Vite** and a high-performance **C# .NET** backend.
 
+https://secretfile-9952.web.app/
+
 ---
 
 ## 🚀 Key Features
@@ -21,8 +23,11 @@ A robust, full-stack web application designed for organizations to securely stor
 * **Vite** (Build Tool for ultra-fast development)
 * **CSS Framework:** (e.g., Tailwind CSS / Material UI - *Please specify if you use any*)
 * **Axios:** For seamless API communication.
+* **Deploy:** Firebase.
 
 ### Backend
 * **ASP.NET Core (C#)**: High-performance Web API.
 * **Entity Framework Core**: For ORM and database management.
 * **SQLite**: Relational database for efficient data storage.
+* * **Deploy:** Render
+
